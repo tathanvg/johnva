@@ -1,0 +1,47 @@
+p.va {
+
+    overflow-wrap: break-word;
+    color: #fff;
+}
+
+p.va em{
+    font-style:inherit;
+    background: #47D3E5;
+    background: -webkit-linear-gradient(to right, #47D3E5 30%, #25dda3 60%);
+    background: -moz-linear-gradient(to right, #47D3E5 30%, #25dda3 60%);
+    background: linear-gradient(to right, #47D3E5 30%, #25dda3 60%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+p.va em.Adobe{
+    font-style:inherit;
+    background: #5447e5;
+    background: -webkit-linear-gradient(to right, #5447e5 0%, #dd258a 100%);
+    background: -moz-linear-gradient(to right, #5447e5 0%, #dd258a 100%);
+    background: linear-gradient(to right, #5447e5 0%, #dd258a 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+p.itech {
+    color: #fff;
+}
+
+p.itech em{
+    background: #47D3E5;
+    background: -webkit-linear-gradient(to right, #47D3E5 30%, #25dda3 60%);
+    background: -moz-linear-gradient(to right, #47D3E5 30%, #25dda3 60%);
+    background: linear-gradient(to right, #47D3E5 30%, #25dda3 60%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+p.itech em.Adobe{
+    background: #5447e5;
+    background: -webkit-linear-gradient(to right, #5447e5 0%, #dd258a 100%);
+    background: -moz-linear-gradient(to right, #5447e5 0%, #dd258a 100%);
+    background: linear-gradient(to right, #5447e5 0%, #dd258a 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
